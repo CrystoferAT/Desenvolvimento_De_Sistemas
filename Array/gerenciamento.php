@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo"estoque.php";
+        include "estoque.php";
     ?>
 </body>
 </html>

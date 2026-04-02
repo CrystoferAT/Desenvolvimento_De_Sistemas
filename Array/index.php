@@ -38,6 +38,9 @@
 
         }
         echo"<h3>Media de preços:". number_format($totalPreco/$quantidadeProdutos, 2,',','.')."</h3>";
+        include "arrayAssociativo.php";
+
+        include "arrayMultidimensionais.php";
     ?>
 </body>
 </html>

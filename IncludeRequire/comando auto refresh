@@ -1,1 +1,2 @@
 browser-sync start --proxy 
+browser-sync start --proxy "LINK" --files "**/*.php, **/*.css"
